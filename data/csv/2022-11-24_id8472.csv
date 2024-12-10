@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Treptow-Köpenick,PROPN,Treptow-Köpenick
+Persönlichkeiten,NOUN,Persönlichkeit
+-,PUNCT,--
+Ein,DET,ein
+kleines,ADJ,klein
+Kompendium,NOUN,Kompendium
+"
+",SPACE,"
+"
+Eine,DET,ein
+Mitteilung,NOUN,Mitteilung
+der,DET,der
+Kunstfabrik,NOUN,Kunstfabrik
+Köpenick,PROPN,Köpenick
+GmbH,NOUN,GmbH

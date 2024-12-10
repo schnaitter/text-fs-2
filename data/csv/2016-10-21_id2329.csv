@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Programm,NOUN,Programm
+des,DET,der
+FrauenSportTag,NOUN,FrauenSportTag
+2016,NUM,2016
+"
+",SPACE,"
+"
+Das,DET,der
+aktuelle,ADJ,aktuell
+Programm,NOUN,Programm
+des,DET,der
+FrauenSportTages,PROPN,FrauenSportTag
+2016,NUM,2016
+zum,ADP,zu
+Download,NOUN,Download

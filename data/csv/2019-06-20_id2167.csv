@@ -1,0 +1,17 @@
+Token,PoS,Lemma
+Der,DET,der
+Green,PROPN,Green
+Buddy,PROPN,Buddy
+ist,AUX,sein
+ein,DET,ein
+Computer-Geek,NOUN,Computer-Geek
+"
+",SPACE,"
+"
+Sei,AUX,Sei
+ein,DET,ein
+Buddy,NOUN,Buddy
+!,PUNCT,--
+Jetzt,ADV,jetzt
+bewerben,VERB,bewerben
+!,PUNCT,--

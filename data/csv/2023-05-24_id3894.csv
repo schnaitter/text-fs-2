@@ -1,0 +1,15 @@
+Token,PoS,Lemma
+Unternehmensbesuch,NOUN,Unternehmensbesuch
+im,ADP,in
+Produktionsbetrieb,NOUN,Produktionsbetrieb
+"
+",SPACE,"
+"
+Made,X,--
+in,ADP,in
+Tempelhof-Schöneberg,PROPN,Tempelhof-Schöneberg
+!,PUNCT,--
+MELAG,PROPN,MELAG
+competence,X,competence
+in,ADP,in
+hygiene,NOUN,Hygiene

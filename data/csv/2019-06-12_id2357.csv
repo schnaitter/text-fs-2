@@ -1,0 +1,15 @@
+Token,PoS,Lemma
+Happy,PROPN,Happy
+Birthday,PROPN,Birthday
+-,PUNCT,--
+70,NUM,70
+Jahre,NOUN,Jahr
+Grundgesetz,NOUN,Grundgesetz
+"
+",SPACE,"
+"
+Erfolgreiche,ADJ,erfolgreich
+Geburtstagsfeier,NOUN,Geburtstagsfeier
+im,ADP,in
+Rathaus,NOUN,Rathaus
+Schöneberg,PROPN,Schöneberg

@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Zweite,ADJ,Zweite
+Runde,NOUN,Runde
+:,PUNCT,--
+MakerLab,NOUN,MakerLab
+4.0,NUM,4.0
+in,ADP,in
+der,DET,der
+Gertrud-Kolmar-Bibliothek,NOUN,Gertrud-Kolmar-Bibliothek
+"
+",SPACE,"
+"
+Workshops,PROPN,Workshop
+zum,ADP,zu
+Thema,NOUN,Thema
+Digitalisierung,NOUN,Digitalisierung

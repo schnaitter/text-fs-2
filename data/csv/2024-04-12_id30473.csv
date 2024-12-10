@@ -1,0 +1,14 @@
+Token,PoS,Lemma
+Vier,NUM,vier
+neue,ADJ,neu
+gesicherte,ADJ,gesichert
+Fahrradabstellanlagen,NOUN,Fahrradabstellanlag
+in,ADP,in
+Berlin,PROPN,Berlin
+"
+",SPACE,"
+"
+ParkYourBike,ADV,ParkYourBike
+an,ADP,an
+mehreren,DET,mehrere
+Standorten,NOUN,Standort

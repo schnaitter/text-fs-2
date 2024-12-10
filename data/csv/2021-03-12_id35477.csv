@@ -1,0 +1,17 @@
+Token,PoS,Lemma
+Ausfall,NOUN,Ausfall
+von,ADP,von
+Markttagen,NOUN,Markttag
+"
+",SPACE,"
+"
+Aufgrund,ADP,aufgrund
+des,DET,der
+Feiertages,NOUN,Feiertag
+entfallen,VERB,entfallen
+wie,SCONJ,wie
+folgt,VERB,folgen
+die,DET,der
+städtischen,ADJ,städtisch
+Wochenmärkte,NOUN,Wochenmarkt
+:,PUNCT,--

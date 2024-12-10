@@ -1,0 +1,15 @@
+Token,PoS,Lemma
+Planungsstand,NOUN,Planungsstand
+für,ADP,für
+den,DET,der
+Verkehrsversuch,NOUN,Verkehrsversuch
+am,ADP,an
+Tempelhofer,ADJ,Tempelhofer
+Damm,NOUN,Damm
+"
+",SPACE,"
+"
+Einladung,NOUN,Einladung
+zur,ADP,zu
+öffentlichen,ADJ,öffentlich
+Informationsveranstaltung,NOUN,Informationsveranstaltung

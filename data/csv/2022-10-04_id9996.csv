@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Zu,ADP,zu
+Besuch,NOUN,Besuch
+bei,ADP,bei
+Takeda,PROPN,Takeda
+Pharma,NOUN,Pharma
+"
+",SPACE,"
+"
+Aus,ADP,aus
+der,DET,der
+Reihe,NOUN,Reihe
+:,PUNCT,--
+Unternehmensbesuche,NOUN,Unternehmensbesuch
+des,DET,der
+Bezirksbürgermeisters,NOUN,Bezirksbürgermeister

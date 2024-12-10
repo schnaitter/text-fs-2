@@ -1,0 +1,15 @@
+Token,PoS,Lemma
+Neuer,ADJ,neu
+"""",PUNCT,--
+Polizei,NOUN,Polizei
+"""",PUNCT,--
+Spielplatz,NOUN,Spielplatz
+am,ADP,an
+Lichtenrader,PROPN,Lichtenrader
+Damm,NOUN,Damm
+übergeben,VERB,übergeben
+"
+",SPACE,"
+"
+Ausbildungsprojekt,NOUN,Ausbildungsprojekt
+abgeschlossen,VERB,abschließen

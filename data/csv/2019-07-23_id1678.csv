@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Die,DET,der
+Stadtteilbibliothek,NOUN,Stadtteilbibliothek
+Marienfelde,PROPN,Marienfelde
+wird,AUX,werden
+renoviert,VERB,renovieren
+!,PUNCT,--
+"
+",SPACE,"
+"
+Neugestaltete,ADJ,Neugestaltete
+Terrasse,NOUN,Terrasse
+als,ADP,als
+Außen-Lesebereich,NOUN,Außen-Lesebereich
+bereits,ADV,bereits
+geöffnet,VERB,öffnen

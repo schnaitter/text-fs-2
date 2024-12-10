@@ -1,0 +1,17 @@
+Token,PoS,Lemma
+Aufruf,NOUN,Aufruf
+:,PUNCT,--
+Fußballturnier,NOUN,Fußballturnier
+für,ADP,für
+Freizeit-Teams,PROPN,Freizeit-Team
+“,PUNCT,--
+30,NUM,30
+Jahre,NOUN,Jahr
+AC,X,AC
+BERLIN,PROPN,Berlin
+“,PUNCT,--
+"
+",SPACE,"
+"
+Ausrichter,NOUN,Ausrichter
+:,PUNCT,--

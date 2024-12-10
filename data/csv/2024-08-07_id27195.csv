@@ -1,0 +1,16 @@
+Token,PoS,Lemma
+Gutachterausschuss,PROPN,Gutachterausschuss
+Grundstückswerte,PROPN,Grundstückswerte
+"
+",SPACE,"
+"
+Pressemitteilung,NOUN,Pressemitteilung
+des,DET,der
+Gutachterausschusses,NOUN,Gutachterausschuß
+für,ADP,für
+Grundstückswerte,NOUN,Grundstückswert
+zu,ADP,zu
+Ihrer,DET,ihr
+freundlichen,ADJ,freundlich
+Kenntnisnahme,NOUN,Kenntnisnahme
+.,PUNCT,--

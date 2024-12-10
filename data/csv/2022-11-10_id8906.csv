@@ -1,0 +1,17 @@
+Token,PoS,Lemma
+Vier,NUM,vier
+Stolpersteine,NOUN,Stolperstein
+für,ADP,für
+Familie,NOUN,Familie
+Wolfram,PROPN,Wolfram
+in,ADP,in
+Tempelhof,PROPN,Tempelhof
+verlegt,VERB,verlegen
+"
+",SPACE,"
+"
+Erinnern,NOUN,erinnern
+und,CCONJ,und
+nicht,PART,nicht
+vergessen,VERB,vergessen
+!,PUNCT,--
