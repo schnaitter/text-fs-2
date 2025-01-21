@@ -1,0 +1,44 @@
+format: jb-book
+root: markdown/intro
+parts:
+  - caption: Präambel
+    chapters:
+    - file: markdown/introduction_learning-outcomes
+    - file: markdown/introduction_requirements
+  - caption: Fragestellung und Operationalisierung. Einführung in die Fallstudie
+    chapters:
+    - file: markdown/research-question_intro
+    - file: markdown/research-question_research-question
+    - file: markdown/research-question_operationalization
+    - file: markdown/research-question_summary
+  - caption: Korpusaufbau. Text als digitale Objekte 
+    chapters:
+    - file: markdown/corpus-collection_intro    
+    - file: markdown/corpus-collection_corpora-as-research-objects
+    - file: markdown/corpus-collection_text_as_digital_objects
+    - file: markdown/corpus-collection_metadata
+    - file: markdown/corpus-collection_building-our-corpus
+    - file: markdown/corpus-collection_summary
+  - caption: Scraping als Methode zur Korpusbildung
+    chapters:
+    - file: markdown/scraping_intro
+    - file: markdown/scraping_method-overview
+      #- file: scraping/scraping_text_from_html
+      #- file: scraping/scraping_structual-analysis
+    - file: markdown/scraping_summary
+  - caption: Scraping von einer Liste von Links
+    chapters:
+    - file: markdown/scraping-list_intro
+      #- file: scraping/scraping-list_selenium
+    - file: markdown/scraping-list_summary
+  - caption: Korpusanalyse. Textkomplexität
+    chapters:
+    - file: markdown/corpus-analysis_intro
+    - file: markdown/corpus-analysis_text_complexity
+      #- file: analysis/text_complexity
+    - file: markdown/corpus-analysis_resumee
+  - caption: Reflexion und Resümee
+    chapters:
+    - file: markdown/reflection_reflection
+    - file: markdown/reflection_outlook
+    - file: markdown/reflection_resumee
