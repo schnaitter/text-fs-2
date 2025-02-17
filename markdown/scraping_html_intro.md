@@ -1,6 +1,15 @@
 **Einführung in HTML**
 
-HTML (HyperText Markup Language) ist die Grundsprache des Internets. Sie wird verwendet, um Webseiten zu strukturieren und Inhalte wie Text, Bilder und Links darzustellen.
+HTML (HyperText Markup Language) ist die Grundsprache des Internets. Sie wird verwendet, um Webseiten zu strukturieren und Inhalte wie Text, Bilder und Links darzustellen. Die Bausteine der HTML-Sprache sind HTML-Elemente.
+
+```{figure} ../book_images/html_tag_anatomy.png
+---
+height:
+name: HTML-Element
+---
+Der Aufbau eines einfachen HTML-Elements
+```
+
 
 ### 1. Die Grundstruktur einer HTML-Seite
 Jede HTML-Datei beginnt mit der Deklaration `<!DOCTYPE html>`, die dem Browser mitteilt, dass es sich um eine HTML5-Datei handelt. Die grundlegende Struktur sieht so aus:
