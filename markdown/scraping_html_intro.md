@@ -10,7 +10,6 @@ name: HTML-Element
 Der Aufbau eines einfachen HTML-Elements
 ```
 
-
 ### 1. Die Grundstruktur einer HTML-Seite
 Jede HTML-Datei beginnt mit der Deklaration `<!DOCTYPE html>`, die dem Browser mitteilt, dass es sich um eine HTML5-Datei handelt. Die grundlegende Struktur sieht so aus:
 
@@ -99,3 +98,7 @@ HTML strukturiert die Inhalte, aber für das Design wird CSS (Cascading Style Sh
 
 ### Fazit
 HTML ist einfach zu lernen und bildet die Grundlage jeder Webseite. Mit HTML kann man Texte, Bilder, Links, Tabellen und mehr darstellen. CSS ist ein wichtiger Bestandteil des Webdesigns. Um Websites zu scrapen und automatisch Daten aus dem Web zu extrahieren, sind HTML-Kenntnisse besonders wichtig.
+
+### Video: eine 3-minütige HTML-Einführung von W3C
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it1rTvBcfRg?si=WRkTaxnrprLZM9RP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
